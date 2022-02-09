@@ -19,3 +19,4 @@ http=jc.ap.fastqvpn.com:29980, username= 443042051454402560, password= d8ddfdc4-
 http=jc.ap.fastqvpn.com:29980, username= 442624054172581888, password= 6ed54b90-ffe1-4431-9a5e-a31aab62e788, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=W8A2BZ一键连
 
 http=jc.ap.fastqvpn.com:29980, username= 441906580061949952, password= a0dc0b03-8e09-423e-8a0c-6a1ba5d9dc95, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=W88CR3一键连
+http=jc.ap.fastqvpn.com:29980, username= 442993652168396800, password= 2ef91648-089f-4c81-b34d-06f072ec51dd, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=W8ARAM一键连4
